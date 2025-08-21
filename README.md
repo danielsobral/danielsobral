@@ -52,6 +52,9 @@
   <a href="https://gitlab.com/danielsobral" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
   </a>
+  <a href="https://www.dio.me/users/danielsobralnascimento" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dio.io&logo=&label=&color=1976D2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  </a>
 </div>
 
 ###
